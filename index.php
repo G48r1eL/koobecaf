@@ -7,7 +7,7 @@
 		<link href="style.css" rel="stylesheet">
 		<meta name="Category" content="Réseau social">
 		<meta name="Language" content="fr">
-		<meta name="Description" content="Koobecaf vous permet de rester en contact avec vos amis mais aussi de vous faire des ennemis et de d�tester certaines personnes personnes...">
+		<meta name="Description" content="Koobecaf vous permet de rester en contact avec vos amis mais aussi de vous faire des ennemis ">
 	</head>
 	<body>
 	<style type="text/css">
