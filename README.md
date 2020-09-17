@@ -7,7 +7,7 @@ Utilisation de :
 * Jquery pour faire une requête AJAX et utiliser post.php directement
 * PHP 
 
-Base de donnée :
+Base de données :
 
 ```SQL
 CREATE DATABASE IF NOT EXISTS `koobecaf` DEFAULT CHARSET=latin1 COLLATE latin1_swedish_ci;
