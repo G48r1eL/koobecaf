@@ -1,8 +1,8 @@
 # Koobecaf
-Projet pour tester de nouvelles fonctionnalitées
+Projet pour tester de nouvelles fonctionnalités
 
 Utilisation de : 
-* PDO et MYSQL pour accéder à la base de donnée
+* PDO et MYSQL 
 * HTML CSS 
 * Jquery pour faire une requête AJAX et utiliser post.php directement
 * PHP 
